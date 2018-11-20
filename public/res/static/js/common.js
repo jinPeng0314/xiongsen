@@ -1,5 +1,5 @@
 /*
-*@Name: layuiUniversalCompany - 通用企业公司网站模板
+*@Name: layuiUniversalCompany
 *@Author: xuzhiwen
 *@Copyright:layui.com
 */
