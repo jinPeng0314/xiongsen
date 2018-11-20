@@ -3,8 +3,8 @@
  * Created by PhpStorm.
  * User: administrator
  * Date: 2018/11/20
- * Time: 9:47
+ * Time: 11:52
  */
 use think\Route;
 
-Route::rule('/test','/admin/user/user/test');
+Route::rule('/index','/web/index/index');

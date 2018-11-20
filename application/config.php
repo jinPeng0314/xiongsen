@@ -18,7 +18,8 @@ return [
     // 应用命名空间
     'app_namespace'          => 'app',
     // 应用调试模式
-    'app_debug'              => Env::get('app.debug', false),
+//    'app_debug'              => Env::get('app.debug', false),
+    'app_debug'              => true,
     // 应用Trace
     'app_trace'              => Env::get('app.trace', false),
     // 应用模式状态
@@ -91,7 +92,7 @@ return [
     'route_complete_match'   => false,
     // 路由配置文件（支持配置多个）
     'route_config_file'      => ['route',
-                                 'route/test'
+                                 'route/web'
     ],
     // 是否强制使用路由
     'url_route_must'         => false,
