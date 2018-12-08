@@ -1,1 +1,1 @@
-感谢FastAdmin
+Thanks FastAdmin
