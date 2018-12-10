@@ -86,7 +86,7 @@ class Backend extends Controller
     /**
      * Multi方法可批量修改的字段
      */
-    protected $multiFields = ['status','staswitch'];
+    protected $multiFields = ['status','staswitch','newsswitch','caseswitch'];
 
     /**
      * Selectpage可显示的字段
